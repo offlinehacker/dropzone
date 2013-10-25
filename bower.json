@@ -7,9 +7,5 @@
   "main": [
     "downloads/dropzone.css",
     "downloads/dropzone.min.js"
-    ],
-  "ignore": [
-    "/*",
-    "!downloads/*"
   ]
 }
